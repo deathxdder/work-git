@@ -6,4 +6,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javaScript&logoColor=black)
 
 ## Ссылки проекта
-Ссылка на проект для просмотра - 
+Ссылка на проект для просмотра - https://pr1memur.github.io/work-git/
